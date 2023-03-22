@@ -2,7 +2,7 @@
 /**
  * print_last_digit - function printed last number
  * @i: parameter to be printed
- * Return: always k
+ * Return: always j
  */
 int print_last_digit(int i)
 {
